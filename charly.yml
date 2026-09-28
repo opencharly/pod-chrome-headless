@@ -1,7 +1,5 @@
-version: 2026.232.0520
 chrome-headless:
     candy:
-        version: 2026.156.1447
         description: |
             Headless Chrome CDP driver running the real google-chrome binary in --headless=new mode for cross-deployment `charly check` probing
             Runs the REAL /usr/bin/google-chrome-stable in --headless=new mode on
